@@ -38,29 +38,44 @@ input {
 }
 
 /* Give the element with id 'special' a 2px solid blue border(pick your own rgb blue)*/
-
+#special{
+    border: 2px solid rgb(100,100,250);
+    
+}
 
 /*Make all the <p>'s that are nested inside of divs 25px font(font-size: 25px)*/
-
+div p{
+    font-size: 25px;
+}
 
 /*Make only inputs with type 'text' have a gray background*/
-
+input[type=text]{
+    background-color: gray;
+}
 
 /* Give both <p>'s inside the 3rd <div> a pink background*/
-
+div :nth-child(3) + p {
+    background-color: pink;
+}
 
 /* Give the 2nd <p> inside the 3rd <div> a 5px white border*/
-
+div :nth-child(3) p :nth-child(2){
+    border: 5px;
+}
 
 /* Make the <em> in the 3rd <div> element white and 20px font(font-size:20px)*/
-
+div :nth-child(3) em{
+    font-size: 20px white;
+}
 
 
 /*BONUS CHALLENGES*/
 /*You may need to research some other selectors and properties*/
 
 /*Make all "checked" checkboxes have a left margin of 50px(margin-left: 50px)*/
-
+input[type=checkbox]:checked{
+    margin-left: 50px solid black;
+}
 
 /* Make the <label> elements all UPPERCASE without changing the HTML(definitely look this one up*/
 
