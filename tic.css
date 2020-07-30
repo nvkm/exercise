@@ -2,6 +2,7 @@ h1 {
   color: rgb(45, 97, 97);
   text-align: center;
   margin: 0 auto;
+  padding-bottom: 5em;
 }
 .bottom {
   width: 100px;
