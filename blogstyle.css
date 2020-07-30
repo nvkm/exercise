@@ -1,3 +1,6 @@
+body{
+  background-image: linear-gradient(45deg, black, transparent);
+}
 .hai{
   font-family: Open sans;
   border: 20px solid gray;
