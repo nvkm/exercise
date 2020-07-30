@@ -19,12 +19,12 @@ a {
   text-decoration: none;
   font-size: 1.3em;
 }
-a[href="learn.html"]:visited {
-  color: green;
+a :hover{
+    color: blue;
 }
-a[href="tictactoe.html"]:visited {
-  color: rgb(241, 7, 163);
+a :link{
+color: crimson;
 }
-a[href="blog.html"]:visited {
-  color: rgb(20, 3, 248);
+a :active{
+    color: rgba(182, 176, 176, 0.774);
 }
