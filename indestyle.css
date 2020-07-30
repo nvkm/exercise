@@ -1,7 +1,7 @@
 body {
   font-family: Open sans;
   border: 0.5em solid rgb(243, 5, 5);
-  margin: 2em auto;
+  margin: 5% 25%;
   padding: 5em;
   flex-shrink: 3;
 }
@@ -19,5 +19,8 @@ a {
   font-weight: 400;
   text-decoration: none;
   font-size: 1.3em;
-  
+  color: blue;
+}
+a:active {
+  background-color: red;
 }
