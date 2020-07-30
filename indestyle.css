@@ -1,4 +1,7 @@
-body {
+body{
+  background-image: linear-gradient(rgb(196, 55, 55), rgb(71, 71, 218));
+}
+.box{
   font-family: Open sans;
   border: 0.5em solid rgb(243, 5, 5);
   margin: 5% 25%;
