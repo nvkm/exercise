@@ -2,7 +2,7 @@
 .box{
   font-family: Open sans;
   border: 0.5em solid rgb(243, 5, 5);
-  margin: 5% 25%;
+  margin:2em ;
   padding: 5em;
   flex-shrink: 3;
 }
