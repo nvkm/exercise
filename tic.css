@@ -5,17 +5,20 @@ h1 {
   padding-bottom: 5em;
 }
 .bottom {
+  background-image: linear-gradient(rgb(255, 255, 255), gray);
   width: 100px;
   height: 100px;
   background-color: white;
   border-bottom: 2px solid black;
 }
-.right{   
+.right {
+  background-image: linear-gradient(rgb(255, 255, 255), gray);
   width: 100px;
   height: 100px;
   background-color: white;
   border-right: 2px solid black;
 }
 .tabby {
+  background-image: linear-gradient(rgb(255, 255, 255),gray);
   margin: 50px auto;
 }
