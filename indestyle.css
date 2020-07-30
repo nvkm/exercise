@@ -3,6 +3,7 @@ body {
   border: 0.5em solid rgb(243, 5, 5);
   margin: 2em 30em;
   padding: 5em;
+  flex-shrink: 3;
 }
 h1 {
   letter-spacing: 1.7em;
