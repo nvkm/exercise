@@ -9,6 +9,7 @@ h1{
     letter-spacing: 1.7em;
     text-align: center;
     border-bottom: 2px solid gray;
+    padding-bottom: 3em;
 }
 span{
     font-size: 0.8em;
