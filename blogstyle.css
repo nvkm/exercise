@@ -1,0 +1,23 @@
+body {
+  font-family: Open sans;
+  border: 20px solid gray;
+  margin: 2em 25em;
+  padding: 2em;
+}
+div {
+  margin: 0em 0.1em;
+  border-left: 0.2em solid rgba(114, 110, 110, 0.267);
+}
+.hello{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 2em;
+  font-weight: 800;
+}
+.bottom {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    letter-spacing: 0.1em;
+    
+    font-weight: 200;
+  }
