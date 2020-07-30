@@ -1,36 +1,30 @@
 body {
-    font-family: Open sans;
-    border: 0.5em solid rgb(243, 5, 5);
-    margin: 2em 30em;
-    padding: 5em;
-    
-  }
-h1{
-    letter-spacing: 1.7em;
-    text-align: center;
-    border-bottom: 2px solid gray;
-    padding-bottom: 3em;
+  font-family: Open sans;
+  border: 0.5em solid rgb(243, 5, 5);
+  margin: 2em 30em;
+  padding: 5em;
 }
-span{
-    font-size: 0.8em;
-    background-color: rgb(206, 202, 202);
-    letter-spacing: 0em;
+h1 {
+  letter-spacing: 1.7em;
+  text-align: center;
+  border-bottom: 2px solid gray;
 }
-a{
-    font-weight: 400;
-    text-decoration: none;
-    font-size: 1.3em;
-   
-    
+span {
+  font-size: 0.8em;
+  background-color: rgb(206, 202, 202);
+  letter-spacing: 0em;
 }
-a[href="learn.html"]:visited{
-    color: green;
+a {
+  font-weight: 400;
+  text-decoration: none;
+  font-size: 1.3em;
 }
-a[href="tictactoe.html"]:visited{
-    color: rgb(241, 7, 163);
+a[href="learn.html"]:visited {
+  color: green;
 }
-a[href="blog.html"]:visited{
-    color: rgb(20, 3, 248);
+a[href="tictactoe.html"]:visited {
+  color: rgb(241, 7, 163);
 }
-
-
+a[href="blog.html"]:visited {
+  color: rgb(20, 3, 248);
+}
