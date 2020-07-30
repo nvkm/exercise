@@ -1,8 +1,9 @@
 body {
     font-family: Open sans;
-    border: 15px solid rgb(243, 5, 5);
-    margin: 2em 25em;
-    padding: 2em;
+    border: 0.5em solid rgb(243, 5, 5);
+    margin: 2em 30em;
+    padding: 5em;
+    
   }
 h1{
     letter-spacing: 1.7em;
@@ -18,16 +19,16 @@ a{
     font-weight: 400;
     text-decoration: none;
     font-size: 1.3em;
-    border-style: outset;
+   
     
 }
-a[href="learn.html"]{
+a[href="learn.html"]:visited{
     color: green;
 }
-a[href="tictactoe.html"]{
+a[href="tictactoe.html"]:visited{
     color: rgb(241, 7, 163);
 }
-a[href="blog.html"]{
+a[href="blog.html"]:visited{
     color: rgb(20, 3, 248);
 }
 
