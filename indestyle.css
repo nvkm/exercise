@@ -1,0 +1,34 @@
+body {
+    font-family: Open sans;
+    border: 15px solid rgb(243, 5, 5);
+    margin: 2em 25em;
+    padding: 2em;
+  }
+h1{
+    letter-spacing: 1.7em;
+    text-align: center;
+    border-bottom: 2px solid gray;
+}
+span{
+    font-size: 0.8em;
+    background-color: rgb(206, 202, 202);
+    letter-spacing: 0em;
+}
+a{
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 1.3em;
+    border-style: outset;
+    
+}
+a[href="learn.html"]{
+    color: green;
+}
+a[href="tictactoe.html"]{
+    color: rgb(241, 7, 163);
+}
+a[href="blog.html"]{
+    color: rgb(20, 3, 248);
+}
+
+
