@@ -21,3 +21,8 @@ a {
   font-size: 1.3em;
   
 }
+.likebutton{
+  background-color: darkgreen;
+  width: 0.5em;
+  height: 0.5em;
+}
