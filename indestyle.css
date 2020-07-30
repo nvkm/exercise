@@ -19,16 +19,5 @@ a {
   font-weight: 400;
   text-decoration: none;
   font-size: 1.3em;
-}
-a :hover{
-    color: blue;
-}
-a :link{
-color: crimson;
-}
-a :active{
-    color: rgba(182, 176, 176, 0.774);
-}
-a :visited{
- color: blue;
+  
 }
