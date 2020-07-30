@@ -29,3 +29,6 @@ color: crimson;
 a :active{
     color: rgba(182, 176, 176, 0.774);
 }
+a :visited{
+ color: blue;
+}
