@@ -1,5 +1,7 @@
 body{
   background-image: linear-gradient(to bottom right, rgb(73, 73, 245), rgb(243, 77, 77));
+  font-size: 1.5vh;
+  font-weight: 200;
 }
 .hai{
   font-family: Open sans;
